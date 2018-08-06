@@ -22,6 +22,5 @@ If you'd like some assistance at any point, chat to your team in the team channe
 
 Now that you have Unity and Vuforia set up, you're ready to build world-class augmented reality apps! Don't forget to brag in your team channel. 😎
 
-## Further reading
-- [Root Insurance guides](https://app.root.co.za/docs/insurance/guides)
-- [Root Insurance API documentation](https://app.root.co.za/docs/insurance/api)
+## Further info
+- [Video series: Creating AR content with Vuforia](https://www.youtube.com/watch?v=9XikHnTiukk)

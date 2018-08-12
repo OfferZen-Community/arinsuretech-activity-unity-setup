@@ -16,7 +16,7 @@ If you'd like some assistance at any point, chat to your team in the team channe
 - [Download Unity](https://store.unity.com/download?ref=personal). It's recommended that you choose the *Unity hub* option.
 - Run the installer and make sure you have Unity 2018 installed.
 
-### Step 1: Add Vuforia component and test your sample AR project
+### Step 1: Add Vuforia component and test a sample AR project
 - Follow the [Vuforia setup instructions](https://library.vuforia.com/articles/Training/getting-started-with-vuforia-in-unity.html)
 - Note that instead of printing assets, you can display them on your cellphone - the image targets don't always work as well, but you'll get to try it out!
 

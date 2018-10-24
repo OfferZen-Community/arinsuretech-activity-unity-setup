@@ -8,7 +8,7 @@
 
 In this activity you'll be downloading and installing Unity and Vuforia, and testing your AR setup with a sample project.
 
-If you'd like some assistance at any point, chat to your team in the team channel on Make Slack and mention @dan.
+If you'd like some assistance at any point, chat to your team in the team channel on Make Slack and mention @robin.
 
 ## Process
 
